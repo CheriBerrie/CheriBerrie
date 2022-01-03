@@ -10,4 +10,4 @@
 
 
 
-> ![](https://img.shields.io/badge/-Windows-blue?labelColor=blue&style=for-the-badge&logo=windows)
+> ![](https://img.shields.io/badge/-Windows%20user-blue?labelColor=blue&style=for-the-badge&logo=windows)
