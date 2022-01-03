@@ -1,6 +1,6 @@
 # Hello, I'm Berrie! 👋
 
-**If you have a request for a game that I should make a GUI for message me on discord (Linked in desc)**
+**If you have a request for a game that I should make a GUI for message me on discord (In bio!)**
 
 ## Statistics 📊
 
