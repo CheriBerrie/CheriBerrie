@@ -5,9 +5,3 @@
 ## Statistics 📊
 
 > ![followers](https://img.shields.io/github/followers/CheriBerrie?color=red&label=Followers&logo=github&style=for-the-badge) ![stars](https://img.shields.io/github/stars/CheriBerrie?color=red&logo=github&style=for-the-badge) ![cactivity](https://img.shields.io/github/commit-activity/m/CheriBerrie/Berries-Scripts?color=green&logo=github&style=for-the-badge) ![mr?](https://img.shields.io/badge/Moderated%20Repositories-Yes!-brightgreen?logo=github&style=for-the-badge) ![friends](https://img.shields.io/badge/Friends-8-green?style=for-the-badge&logo=discord&logoColor=white)
-
-
-
-
-
-> ![](https://img.shields.io/badge/-Windows%20user-blue?labelColor=blue&style=for-the-badge&logo=windows)
