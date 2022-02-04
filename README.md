@@ -1,4 +1,4 @@
-# Hello, I'm Berrie! 👋
+# Hello, I'm Cheri! 👋
 
 **If you have a request for a game that I should make a GUI for message me on discord (In bio!)**
 
